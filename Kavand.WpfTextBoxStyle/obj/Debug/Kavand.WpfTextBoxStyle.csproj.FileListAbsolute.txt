@@ -1,0 +1,15 @@
+D:\Projects\WpfTextBoxStyle\WpfTextBoxStyle\Kavand.WpfTextBoxStyle\bin\Debug\Kavand.WpfTextBoxStyle.exe
+D:\Projects\WpfTextBoxStyle\WpfTextBoxStyle\Kavand.WpfTextBoxStyle\bin\Debug\Kavand.WpfTextBoxStyle.pdb
+D:\Projects\WpfTextBoxStyle\WpfTextBoxStyle\Kavand.WpfTextBoxStyle\obj\Debug\Kavand.WpfTextBoxStyle.csprojResolveAssemblyReference.cache
+D:\Projects\WpfTextBoxStyle\WpfTextBoxStyle\Kavand.WpfTextBoxStyle\obj\Debug\Colors.baml
+D:\Projects\WpfTextBoxStyle\WpfTextBoxStyle\Kavand.WpfTextBoxStyle\obj\Debug\MainWindow.baml
+D:\Projects\WpfTextBoxStyle\WpfTextBoxStyle\Kavand.WpfTextBoxStyle\obj\Debug\Styles.baml
+D:\Projects\WpfTextBoxStyle\WpfTextBoxStyle\Kavand.WpfTextBoxStyle\obj\Debug\App.baml
+D:\Projects\WpfTextBoxStyle\WpfTextBoxStyle\Kavand.WpfTextBoxStyle\obj\Debug\MainWindow.g.cs
+D:\Projects\WpfTextBoxStyle\WpfTextBoxStyle\Kavand.WpfTextBoxStyle\obj\Debug\App.g.cs
+D:\Projects\WpfTextBoxStyle\WpfTextBoxStyle\Kavand.WpfTextBoxStyle\obj\Debug\Kavand.WpfTextBoxStyle_MarkupCompile.cache
+D:\Projects\WpfTextBoxStyle\WpfTextBoxStyle\Kavand.WpfTextBoxStyle\obj\Debug\Kavand.WpfTextBoxStyle.g.resources
+D:\Projects\WpfTextBoxStyle\WpfTextBoxStyle\Kavand.WpfTextBoxStyle\obj\Debug\Kavand.WpfTextBoxStyle.Properties.Resources.resources
+D:\Projects\WpfTextBoxStyle\WpfTextBoxStyle\Kavand.WpfTextBoxStyle\obj\Debug\Kavand.WpfTextBoxStyle.csproj.GenerateResource.Cache
+D:\Projects\WpfTextBoxStyle\WpfTextBoxStyle\Kavand.WpfTextBoxStyle\obj\Debug\Kavand.WpfTextBoxStyle.exe
+D:\Projects\WpfTextBoxStyle\WpfTextBoxStyle\Kavand.WpfTextBoxStyle\obj\Debug\Kavand.WpfTextBoxStyle.pdb
